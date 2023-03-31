@@ -4,7 +4,7 @@ This is a RESTful API for managing employee data. It is built using Django and D
 
 
 Installation
-Clone the repository: git clone https://github.com/your-username/employee-data-management-system.git
+Clone the repository: git clone https://github.com/Ibezimmichael/employed.git
 Install the requirements: pip install -r requirements.txt
 Run database migrations: python manage.py migrate
 Usage
